@@ -24,16 +24,16 @@
     "website": "https://greenearthinitiative.org"
   },
   {
-    "id": 3,
-    "name": "Ocean Protectors",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/ocean-protectors-logo.png",
-    "question": "Which marine animal is known as the 'rainforest of the sea' due to its biodiversity?",
-    "options": ["Coral Reef", "Great White Shark", "Blue Whale", "Dolphin"],
-    "correctOption": 0,
-    "donationCorrect": 2,
-    "donationWrong": 1,
-    "description": "Ocean Protectors safeguards marine ecosystems and educates about ocean conservation.",
-    "website": "https://oceanprotectors.org"
+  "id": 3,
+  "name": "Ocean Protectors",
+  "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/ocean-protectors-logo.png",
+  "question": "Which underwater ecosystem is often called the 'rainforest of the sea' due to its incredible biodiversity?",
+  "options": ["Coral Reef", "Kelp Forest", "Mangrove Swamp", "Seagrass Meadow"],
+  "correctOption": 0,
+  "donationCorrect": 2,
+  "donationWrong": 1,
+  "description": "Ocean Protectors safeguards marine ecosystems and educates about ocean conservation.",
+  "website": "https://oceanprotectors.org"
   },
   {
     "id": 4,
