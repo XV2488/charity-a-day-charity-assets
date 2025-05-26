@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Global Health Foundation",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/global-health-logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/global-health-logo.jpeg",
     "question": "Which disease has been nearly eradicated thanks to global vaccination efforts?",
     "options": ["Polio", "Common Cold", "Diabetes", "Flu"],
     "correctOption": 0,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Green Earth Initiative",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/green-earth-logo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/green-earth-logo.jpeg",
     "question": "What percentage of the Earth’s surface is covered by forests?",
     "options": ["31%", "50%", "10%", "70%"],
     "correctOption": 0,
@@ -26,7 +26,7 @@
   {
   "id": 3,
   "name": "Ocean Protectors",
-  "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/ocean-protectors-logo.png",
+  "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ocean-protectors-logo.png",
   "question": "Which underwater ecosystem is often called the 'rainforest of the sea' due to its incredible biodiversity?",
   "options": ["Coral Reef", "Kelp Forest", "Mangrove Swamp", "Seagrass Meadow"],
   "correctOption": 0,
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Feed the Future",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/feed-the-future-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/feed-the-future-logo.png",
     "question": "Approximately how many people worldwide suffer from hunger daily?",
     "options": ["690 million", "100 million", "1 billion", "50 million"],
     "correctOption": 0,
