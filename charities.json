@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Global Health Foundation",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/global-health-logo.png",
+    "question": "Which disease has been nearly eradicated thanks to global vaccination efforts?",
+    "options": ["Polio", "Common Cold", "Diabetes", "Flu"],
+    "correctOption": 0,
+    "donationCorrect": 2,
+    "donationWrong": 1,
+    "description": "The Global Health Foundation supports vaccination programs that help eradicate diseases worldwide.",
+    "website": "https://globalhealthfoundation.org"
+  },
+  {
+    "id": 2,
+    "name": "Green Earth Initiative",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/green-earth-logo.png",
+    "question": "What percentage of the Earth’s surface is covered by forests?",
+    "options": ["31%", "50%", "10%", "70%"],
+    "correctOption": 0,
+    "donationCorrect": 2,
+    "donationWrong": 1,
+    "description": "Green Earth Initiative works to protect forests and promote sustainability for a greener planet.",
+    "website": "https://greenearthinitiative.org"
+  },
+  {
+    "id": 3,
+    "name": "Ocean Protectors",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/ocean-protectors-logo.png",
+    "question": "Which marine animal is known as the 'rainforest of the sea' due to its biodiversity?",
+    "options": ["Coral Reef", "Great White Shark", "Blue Whale", "Dolphin"],
+    "correctOption": 0,
+    "donationCorrect": 2,
+    "donationWrong": 1,
+    "description": "Ocean Protectors safeguards marine ecosystems and educates about ocean conservation.",
+    "website": "https://oceanprotectors.org"
+  },
+  {
+    "id": 4,
+    "name": "Feed the Future",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/feed-the-future-logo.png",
+    "question": "Approximately how many people worldwide suffer from hunger daily?",
+    "options": ["690 million", "100 million", "1 billion", "50 million"],
+    "correctOption": 0,
+    "donationCorrect": 2,
+    "donationWrong": 1,
+    "description": "Feed the Future fights hunger by providing meals and sustainable food solutions globally.",
+    "website": "https://feedthefuture.org"
+  }
+]
