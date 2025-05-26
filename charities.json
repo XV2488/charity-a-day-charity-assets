@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Global Health Foundation",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/global-health-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/global-health-logo.jpeg",
     "question": "Which disease has been nearly eradicated thanks to global vaccination efforts?",
     "options": ["Polio", "Common Cold", "Diabetes", "Flu"],
     "correctOption": 0,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Green Earth Initiative",
-    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/green-earth-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/your-username/charity-a-day-assets/main/green-earth-logo.jpeg",
     "question": "What percentage of the Earth’s surface is covered by forests?",
     "options": ["31%", "50%", "10%", "70%"],
     "correctOption": 0,
