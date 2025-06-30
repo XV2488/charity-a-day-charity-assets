@@ -9,7 +9,8 @@
     "donationCorrect": 2,
     "donationWrong": 1,
     "description": "The Global Health Foundation supports vaccination programs that help eradicate diseases worldwide.",
-    "website": "https://globalhealthfoundation.org"
+    "website": "https://globalhealthfoundation.org",
+    "fact": "Did you know? Polio has been present for thousands of years, with the first known description dating back to 1789."
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "donationCorrect": 2,
     "donationWrong": 1,
     "description": "Green Earth Initiative works to protect forests and promote sustainability for a greener planet.",
-    "website": "https://greenearthinitiative.org"
+    "website": "https://greenearthinitiative.org",
+    "fact": "Did you know? Trees absorb carbon dioxide from the atmosphere and store it in their wood, leaves, and soil, making forests powerful carbon sinks. A single mature tree can absorb up to 150 kilograms of carbon dioxide per year."
   },
   {
   "id": 3,
@@ -33,7 +35,8 @@
   "donationCorrect": 2,
   "donationWrong": 1,
   "description": "Ocean Protectors safeguards marine ecosystems and educates about ocean conservation.",
-  "website": "https://oceanprotectors.org"
+  "website": "https://oceanprotectors.org",
+  "fact": "Did you know? Coral polyps, the tiny animals that build reefs, are closely related to jellyfish."
   },
   {
     "id": 4,
@@ -45,6 +48,7 @@
     "donationCorrect": 2,
     "donationWrong": 1,
     "description": "Feed the Future fights hunger by providing meals and sustainable food solutions globally.",
-    "website": "https://feedthefuture.org"
+    "website": "https://feedthefuture.org",
+    "fact": "Did you know? The world produces enough food to feed everyone, yet millions still go hungry."
   }
 ]
