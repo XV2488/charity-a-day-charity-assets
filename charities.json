@@ -67,7 +67,7 @@
   {
     "id": 6,
     "name": "Books Beyond Borders",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/books-beyond-borders-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "Which region has the highest rate of youth illiteracy in the world?",
     "options": ["Sub-Saharan Africa", "South America", "Europe", "East Asia"],
     "correctOption": 0,
@@ -80,7 +80,7 @@
   {
     "id": 7,
     "name": "Shelter First",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/shelter-first-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "What is considered the leading cause of homelessness in the United States?",
     "options": ["Lack of affordable housing", "Drug use", "Unemployment", "Mental illness"],
     "correctOption": 0,
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "name": "Paws & Peace",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/paws-and-peace-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "Roughly how many stray dogs and cats enter U.S. shelters each year?",
     "options": ["6 million", "1 million", "10 million", "500,000"],
     "correctOption": 0,
@@ -106,7 +106,7 @@
   {
     "id": 9,
     "name": "Solar Hope",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/solar-hope-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "What renewable energy source is the most abundant on Earth?",
     "options": ["Solar", "Wind", "Hydropower", "Geothermal"],
     "correctOption": 0,
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "name": "Voices for Wildlife",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/voices-for-wildlife-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "Which species is currently considered critically endangered?",
     "options": ["Amur Leopard", "Grizzly Bear", "Grey Wolf", "Bald Eagle"],
     "correctOption": 0,
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "name": "Equal Tech",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/equal-tech-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "What is the term for the gap between those who have access to technology and those who don’t?",
     "options": ["Digital divide", "Tech lag", "Access barrier", "Cyber gap"],
     "correctOption": 0,
@@ -145,7 +145,7 @@
   {
     "id": 12,
     "name": "Mind Matters",
-    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/mind-matters-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/water-for-all-logo.png",
     "question": "What is the most common mental health disorder in the world?",
     "options": ["Anxiety", "Depression", "Bipolar Disorder", "Schizophrenia"],
     "correctOption": 0,
