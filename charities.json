@@ -128,7 +128,8 @@
     "description": "Voices for Wildlife protects endangered species through conservation programs and public advocacy.",
     "website": "https://voicesforwildlife.org",
     "fact": "Did you know? Fewer than 100 Amur leopards remain in the wild, making them one of the rarest big cats on Earth.",
-    "peopleHelped": 1
+    "peopleHelped": 1,
+    "coverage": "Global"
   },
   {
     "id": 11,
