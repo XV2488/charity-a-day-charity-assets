@@ -133,5 +133,20 @@
     "coverage": "United States",
     "founded": 1970,
     "rating": "A"
+  },
+  {
+    "id": 10,
+    "name": "Random Acts",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ra.png",
+    "question": "What phrase became popular in the 1980s–1990s to describe doing good deeds for others without expecting anything in return?",
+    "options": ["Pay It Forward", "Random Acts of Kindness", "Good Samaritan Law", "Kindness Chain"],
+    "correctOption": 1,
+    "description": "Random Acts inspires people of all backgrounds to perform acts of kindness, providing funding and support for projects that improve communities around the world.",
+    "website": "https://randomacts.org",
+    "fact": "Did you know? The idea of kindness spreading through chains of good deeds was also popularized by the book and movie Pay It Forward.",
+    "achievement": "Has sponsored over 1,000 acts of kindness worldwide since its inception.",
+    "coverage": "Global",
+    "founded": 2010,
+    "rating": "A"
   }
 ]
