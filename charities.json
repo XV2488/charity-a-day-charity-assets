@@ -30,6 +30,21 @@
     "rating": "A"
   },
   {
+    "id": 11,
+    "name": "National Extension Association of Family and Consumer Sciences",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/neafcs.png",
+    "question": "What percentage of American households struggle with budgeting and financial planning, areas often addressed by family and consumer sciences programs?",
+    "options": ["25%", "50%", "75%", "90%"],
+    "correctOption": 1,
+    "description": "The National Extension Association of Family and Consumer Sciences (NEAFCS) provides professional development for Extension educators who deliver programs that improve the lives of individuals, families, and communities.",
+    "website": "https://www.neafcs.org",
+    "fact": "Did you know? NEAFCS programs cover topics from nutrition and food safety to financial literacy and family well-being, helping people make informed choices every day.",
+    "achievement": "Supports thousands of educators who implement impactful programs nationwide.",
+    "coverage": "United States",
+    "founded": 1933,
+    "rating": "A"
+  },
+  {
     "id": 3,
     "name": "All Hands and Hearts",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ahah.png",
