@@ -61,6 +61,21 @@
   },
   {
     "id": 5,
+    "name": "Village Partners International",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/vpi.png",
+    "question": "What percentage of gifts does Village Partners International distribute directly to those in need?",
+    "options": ["60%", "75%", "90%", "97%"],
+    "correctOption": 3,
+    "description": "Village Partners International is a volunteer-led nonprofit that partners, village to village, to deliver medical care, clean water, nutrition, and support for housing-insecure people in Uganda, Haiti, and Tampa, Florida—empowering communities to help themselves.",
+    "website": "https://www.villagepartnersinternational.org",
+    "fact": "Did you know? VPI holds a Charity Navigator four-star rating and the Candid Platinum Seal for transparency and accountability.",
+    "achievement": "Supports pediatric, maternity, and mobile clinics and builds/maintains clean-water cisterns serving rural communities in Uganda and Haiti.",
+    "coverage": "Global",
+    "founded": 2007,
+    "rating": "A"
+  },
+  {
+    "id": 6,
     "name": "All Hands and Hearts",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ahah.png",
     "question": "Which earthquake had the largest faultline rupture of all time?",
@@ -75,7 +90,7 @@
     "rating": "A"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Interstitial Cystitis Association",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ica.png",
     "question": "Who gets interstitial cystitis/bladder pain syndrome?",
@@ -90,7 +105,7 @@
     "rating": "A"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "MOASH",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/moash.png",
     "question": "Which of the following U.S. states received the lowest grade for its sex education policies, according to SIECUS?",
@@ -105,7 +120,7 @@
     "rating": "A"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Accessible Hope International",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ahi.png",
     "question": "What percentage of the world's population has a disability?",
@@ -120,7 +135,7 @@
     "rating": "A"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Shoes 4 Africa",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/s4a.png",
     "question": "What percentage of Kenya's population lives below the international poverty line of $2.15 per day?",
@@ -135,7 +150,7 @@
     "rating": "A"
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "National Alliance for Children's Grief",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/nacg.png",
     "question": "1 in how many children will be bereaved (grieve the loss of a sibling or parent) by the age of 18?",
@@ -150,7 +165,7 @@
     "rating": "A"
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "National Headache Foundation",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/nhf.png",
     "question": "About how many people in the United States live with migraine?",
@@ -165,7 +180,7 @@
     "rating": "A"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Random Acts",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ra.png",
     "question": "What phrase became popular in the 1980s–1990s to describe doing good deeds for others without expecting anything in return?",
