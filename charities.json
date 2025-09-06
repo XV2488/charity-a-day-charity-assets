@@ -76,6 +76,36 @@
   },
   {
     "id": 6,
+    "name": "Genesis and Light Center",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/glc.png",
+    "question": "What percentage of at-risk youth who participate in structured afterschool programs show improvement in academic performance?",
+    "options": ["45%", "60%", "75%", "85%"],
+    "correctOption": 2,
+    "description": "Genesis and Light Center empowers at-risk youth by promoting academic excellence, substance-free lifestyles, and providing them with opportunities to develop positive self-esteem and moral values.",
+    "website": "https://www.genesisandlightcenter.com",
+    "fact": "Did you know? Genesis and Light Center has been serving disadvantaged youth since 1992, focusing on creating positive environments that foster academic and personal growth.",
+    "achievement": "Genesis and Light's afterschool services have impacted over 35,000 disadvantaged youth, and our summer programs have reached over 15,000. Our senior services have improved the lives of over 1,000 senior citizens.",
+    "coverage": "Jackson, Mississippi",
+    "founded": 1992,
+    "rating": "A"
+  },
+  {
+    "id": 7,
+    "name": "Network Support Services Incorporated",
+    "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/nssi.png",
+    "question": "What is the national average recidivism rate for individuals released from prison in the United States?",
+    "options": ["45.5%", "52.3%", "67.5%", "78.2%"],
+    "correctOption": 2,
+    "description": "NSSI is a prison-based reentry program that bridges incarceration and community reintegration, providing therapeutic mentoring, life skills training, and wraparound support both behind the walls and after release to ensure individuals return home with the tools to succeed.",
+    "website": "https://www.networkssi.org",
+    "fact": "Did you know? The national average recidivism rate is 67.5%, but NSSI maintains an exceptional 4% recidivism rate through their comprehensive support system.",
+    "achievement": "We've transformed the reentry landscape by serving thousands of justice-impacted individuals—from those currently incarcerated to those diverted from the system entirely—through a continuum of care that begins inside prison walls and extends deep into the community.",
+    "coverage": "New York",
+    "founded": 2009,
+    "rating": "A"
+  },
+  {
+    "id": 8,
     "name": "All Hands and Hearts",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ahah.png",
     "question": "Which earthquake had the largest faultline rupture of all time?",
@@ -90,7 +120,7 @@
     "rating": "A"
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Interstitial Cystitis Association",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ica.png",
     "question": "Who gets interstitial cystitis/bladder pain syndrome?",
@@ -105,7 +135,7 @@
     "rating": "A"
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "MOASH",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/moash.png",
     "question": "Which of the following U.S. states received the lowest grade for its sex education policies, according to SIECUS?",
@@ -120,7 +150,7 @@
     "rating": "A"
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "Accessible Hope International",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ahi.png",
     "question": "What percentage of the world's population has a disability?",
@@ -135,7 +165,7 @@
     "rating": "A"
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "Shoes 4 Africa",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/s4a.png",
     "question": "What percentage of Kenya's population lives below the international poverty line of $2.15 per day?",
@@ -150,7 +180,7 @@
     "rating": "A"
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "National Alliance for Children's Grief",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/nacg.png",
     "question": "1 in how many children will be bereaved (grieve the loss of a sibling or parent) by the age of 18?",
@@ -165,7 +195,7 @@
     "rating": "A"
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "National Headache Foundation",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/nhf.png",
     "question": "About how many people in the United States live with migraine?",
@@ -180,7 +210,7 @@
     "rating": "A"
   },
   {
-    "id": 13,
+    "id": 15,
     "name": "Random Acts",
     "logoUrl": "https://raw.githubusercontent.com/XV2488/charity-a-day-charity-assets/main/ra.png",
     "question": "What phrase became popular in the 1980s–1990s to describe doing good deeds for others without expecting anything in return?",
